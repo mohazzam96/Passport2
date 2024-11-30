@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usr\\source\\repos\\Passport2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|c:\\users\\usr\\source\\repos\\passport2\\passport2\\views\\home\\residencyforforeigners.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|solutionrelative:passport2\\views\\home\\residencyforforeigners.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|c:\\users\\usr\\source\\repos\\passport2\\passport2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|solutionrelative:passport2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|c:\\users\\usr\\source\\repos\\passport2\\passport2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|solutionrelative:passport2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|c:\\users\\usr\\source\\repos\\passport2\\passport2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|solutionrelative:passport2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|c:\\users\\usr\\source\\repos\\passport2\\passport2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|solutionrelative:passport2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|c:\\users\\usr\\source\\repos\\passport2\\passport2\\views\\home\\passportapplication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|solutionrelative:passport2\\views\\home\\passportapplication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|c:\\users\\usr\\source\\repos\\passport2\\passport2\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|solutionrelative:passport2\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|c:\\users\\usr\\source\\repos\\passport2\\passport2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|solutionrelative:passport2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|c:\\users\\usr\\source\\repos\\passport2\\passport2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|solutionrelative:passport2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|c:\\users\\usr\\source\\repos\\passport2\\passport2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|solutionrelative:passport2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|c:\\users\\usr\\source\\repos\\passport2\\passport2\\views\\home\\userdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|solutionrelative:passport2\\views\\home\\userdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|c:\\users\\usr\\source\\repos\\passport2\\passport2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|solutionrelative:passport2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|c:\\users\\usr\\source\\repos\\passport2\\passport2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|solutionrelative:passport2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|c:\\users\\usr\\source\\repos\\passport2\\passport2\\models\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|solutionrelative:passport2\\models\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|c:\\users\\usr\\source\\repos\\passport2\\passport2\\models\\residency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|solutionrelative:passport2\\models\\residency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|c:\\users\\usr\\source\\repos\\passport2\\passport2\\models\\passportapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D8F331-69D8-4ADB-831C-6418EC113729}|Passport2\\Passport2.csproj|solutionrelative:passport2\\models\\passportapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Passport2\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Passport2\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T00:43:58.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Passport2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Passport2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T00:32:47.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Passport2\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Passport2\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T00:25:25.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Passport2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Passport2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T00:04:44.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Passport2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Passport2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T23:33:37.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\appsettings.json",
+              "RelativeDocumentMoniker": "Passport2\\appsettings.json",
+              "ToolTip": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\appsettings.json",
+              "RelativeToolTip": "Passport2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-27T00:12:17.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResidencyForForeigners.cshtml",
+              "DocumentMoniker": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\Views\\Home\\ResidencyForForeigners.cshtml",
+              "RelativeDocumentMoniker": "Passport2\\Views\\Home\\ResidencyForForeigners.cshtml",
+              "ToolTip": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\Views\\Home\\ResidencyForForeigners.cshtml",
+              "RelativeToolTip": "Passport2\\Views\\Home\\ResidencyForForeigners.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T23:23:18.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\Views\\Home\\UserDetails.cshtml",
+              "RelativeDocumentMoniker": "Passport2\\Views\\Home\\UserDetails.cshtml",
+              "ToolTip": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\Views\\Home\\UserDetails.cshtml",
+              "RelativeToolTip": "Passport2\\Views\\Home\\UserDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T22:58:20.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Residency.cs",
+              "DocumentMoniker": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\Models\\Residency.cs",
+              "RelativeDocumentMoniker": "Passport2\\Models\\Residency.cs",
+              "ToolTip": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\Models\\Residency.cs",
+              "RelativeToolTip": "Passport2\\Models\\Residency.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:56:25.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserDetails.cs",
+              "DocumentMoniker": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\Models\\UserDetails.cs",
+              "RelativeDocumentMoniker": "Passport2\\Models\\UserDetails.cs",
+              "ToolTip": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\Models\\UserDetails.cs",
+              "RelativeToolTip": "Passport2\\Models\\UserDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:55:13.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PassportApplication.cs",
+              "DocumentMoniker": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\Models\\PassportApplication.cs",
+              "RelativeDocumentMoniker": "Passport2\\Models\\PassportApplication.cs",
+              "ToolTip": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\Models\\PassportApplication.cs",
+              "RelativeToolTip": "Passport2\\Models\\PassportApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:50:12.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PassportApplication.cshtml",
+              "DocumentMoniker": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\Views\\Home\\PassportApplication.cshtml",
+              "RelativeDocumentMoniker": "Passport2\\Views\\Home\\PassportApplication.cshtml",
+              "ToolTip": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\Views\\Home\\PassportApplication.cshtml",
+              "RelativeToolTip": "Passport2\\Views\\Home\\PassportApplication.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T21:32:24.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\Program.cs",
+              "RelativeDocumentMoniker": "Passport2\\Program.cs",
+              "ToolTip": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\Program.cs",
+              "RelativeToolTip": "Passport2\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:21:08.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Passport2\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Passport2\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:18:01.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Passport2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Passport2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwCQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:14:32.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Passport2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\usr\\source\\repos\\Passport2\\Passport2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Passport2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T19:36:17.504Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+﻿@model List<Residency>
+
+<h2>Residency Records</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Residency ID</th>
+            <th>Foreign Resident Name</th>
+            <th>Nationality</th>
+            <th>Address</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var residency in Model)
+        {
+            <tr>
+                <td>@residency.ResidencyID</td>
+                <td>@residency.ForeignResidentName</td>
+                <td>@residency.UserDetails.FullName</td> <!-- Access FullName from UserDetails -->
+                <td>@residency.UserDetails.Country</td>  <!-- Access Country from UserDetails -->
+            </tr>
+        }
+
+    </tbody>
+</table>
